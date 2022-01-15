@@ -37,7 +37,7 @@ Muy bien, recuérdalo y repitelo constantemente cuando escribas Python. Es mas i
 ## Bienvenido al mundo del collaborative coding 
 
 
-### Git <a name="#chapter-1.1"></a>
+### Git <a name="chapter-1.1"></a>
 Wait, what? *¿Porque?* Git es un Versión Control System - VCS y es un standard para controlar las versiones de tu programa. Como referencia, GitHub, Gitlab y Bitbucket estan basadas en GIT. Cuando seas un programador profesional o crees una aplicacion, te daras cuenta que el codigo se escribe entre varios. Como funcion mas o menos, es que varias personas trabajan en una aplicacion, toman turnos para modificarla y al final se reconcilia el producto final. Sé que esto no tiene mucho sentido si apenas te estas acercando a la industria IT pero, ¿Recuerdas aquel dia cuando por fin terminaste un trabajo o tarea y guardas el archivo como "versionFinal.docx"?. Todo fino verdad?
  
 Espera, 15 minutos después te has acordado que no revisaste la ortografía en los últimos párrafos y que querias cambiar una imagen. Abres el archivo y lo haces. Esta vez, lo guardas como "versionFinalFinal.docx". Uff, que alivio terminar por fin.
@@ -52,7 +52,7 @@ Cual fue primero y cual funciona? En ese momento lo sabes, en 6 meses; quien sab
  
 Git viene con un GUI y un CLI - Command Line Interface. Lo que nos interesa de Git for Windows en este momento es lo que sigue: BASH.
 
-### Bash for windows <a name="#chapter-1.2"></a>
+### Bash for windows <a name="chapter-1.2"></a>
 
 Bash es Unix Shell. Siempre que escuches Shell piensa en: Interprete de comandos que corre programas, típicamente en una consola como [cmd](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/cmd) o [putty](https://www.putty.org/). Bash es el lenguaje con el que ejecutas comandos. 
 
