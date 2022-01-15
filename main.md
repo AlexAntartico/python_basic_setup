@@ -6,7 +6,7 @@ Si, leíste bien... el infame, el underdog y muchas veces infravalorado IDLE �
 
   * [¿A quién está dirigida esta publicación?](#chapter-0) 
   * [Instalación y primeros pasos](#chapter-1) 
-    * [Descarga Git for Windows]()
+    * [Descarga Git for Windows](#chapter-1.1)
   * [Virtual Environment](#chapter-2) 
   * [Idle](#chapter-3) 
 
