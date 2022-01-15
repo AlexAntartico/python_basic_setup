@@ -6,7 +6,8 @@ Si, leíste bien... el infame, el underdog y muchas veces infravalorado IDLE �
 
   * [¿A quién está dirigida esta publicación?](#chapter-0) 
   * [Instalación y primeros pasos](#chapter-1) 
-    * [Descarga Git for Windows](#chapter-1.1)
+    * [Git](#chapter-1.1)
+    * [Bash for Windows](#chapter-1.2)
   * [Virtual Environment](#chapter-2) 
   * [Idle](#chapter-3) 
 
@@ -36,7 +37,7 @@ Muy bien, recuérdalo y repitelo constantemente cuando escribas Python. Es mas i
 ## Bienvenido al mundo del collaborative coding 
 
 
-### Git 
+### Git <a name="#chapter-1.1"></a>
 Wait, what? *¿Porque?* Git es un Versión Control System - VCS y es un standard para controlar las versiones de tu programa. Como referencia, GitHub, Gitlab y Bitbucket estan basadas en GIT. Cuando seas un programador profesional o crees una aplicacion, te daras cuenta que el codigo se escribe entre varios. Como funcion mas o menos, es que varias personas trabajan en una aplicacion, toman turnos para modificarla y al final se reconcilia el producto final. Sé que esto no tiene mucho sentido si apenas te estas acercando a la industria IT pero, ¿Recuerdas aquel dia cuando por fin terminaste un trabajo o tarea y guardas el archivo como "versionFinal.docx"?. Todo fino verdad?
  
 Espera, 15 minutos después te has acordado que no revisaste la ortografía en los últimos párrafos y que querias cambiar una imagen. Abres el archivo y lo haces. Esta vez, lo guardas como "versionFinalFinal.docx". Uff, que alivio terminar por fin.
