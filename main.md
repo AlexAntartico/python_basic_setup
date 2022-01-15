@@ -32,7 +32,7 @@ Muy bien, recuérdalo y repitelo constantemente cuando escribas Python. Es mas i
 🧠 Si quieres saber por que estas descargando estos dos programas. Te dejo secciones colapsables que puedes expandir con la explicación larga, pero útil.
 
 <details>
-  <summary>1. Descarga <a href="https://gitforwindows.org/" name="chapter-1.1">Git for Windows</a> </summary> 
+  <summary>1. Descarga <a href="https://gitforwindows.org/">Git for Windows</a> </summary> 
   
 ## Bienvenido al mundo del collaborative coding 
 
@@ -52,7 +52,7 @@ Cual fue primero y cual funciona? En ese momento lo sabes, en 6 meses; quien sab
  
 Git viene con un GUI y un CLI - Command Line Interface. Lo que nos interesa de Git for Windows en este momento es lo que sigue: BASH.
 
-### Bash for windows
+### Bash for windows <a name="#chapter-1.2"></a>
 
 Bash es Unix Shell. Siempre que escuches Shell piensa en: Interprete de comandos que corre programas, típicamente en una consola como [cmd](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/cmd) o [putty](https://www.putty.org/). Bash es el lenguaje con el que ejecutas comandos. 
 
