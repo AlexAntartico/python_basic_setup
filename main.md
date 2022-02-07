@@ -1,5 +1,5 @@
 # Comienza a programar en Python🐍 con IDLE 
-Si, leíste bien... el infame, el underdog y muchas veces infravalorado IDLE 😎 
+Si, leíste bien... IDLE 😎 
 
 
 ## Contenido 
@@ -17,13 +17,11 @@ Si, leíste bien... el infame, el underdog y muchas veces infravalorado IDLE �
 Personas con poco conocimiento en python, programación o IT que nunca hayan creado su entorno virtual. Orientado principalmente a Windows. Usamos bash, así que se puede usar en linux o Mac OS sin muchas diferencias. Vamos a suponer qué:
 
 * No tienes python instalado
-* Tus conocimientos son de begginer a intermediate
-
-&nbsp; 
+* Tus conocimientos son de begginer a intermediate<br><br>
 
 ## Instalación y primeros pasos <a name="chapter-1"></a> 
-Antes de empezar, lee lo siguiente en voz alta:  
-**"Todo en Python es un objeto"**  
+Antes de empezar, lee lo siguiente en voz alta:  <br><br>
+**"Todo en Python es un objeto"**  <br><br>
 Muy bien, recuérdalo y repitelo constantemente cuando escribas Python. Es mas importante de lo que parece. 
 &nbsp; 
 
@@ -32,7 +30,7 @@ Muy bien, recuérdalo y repitelo constantemente cuando escribas Python. Es mas i
 🧠 Si quieres saber por que estas descargando estos dos programas. Te dejo secciones colapsables que puedes expandir con la explicación larga, pero útil.
 
 <details>
-  <summary>1. Descarga <a href="https://gitforwindows.org/">Git for Windows</a> </summary> 
+  <summary>1. Descarga <a href="https://gitforwindows.org/" rel="noopener noreferrer" target="_blank">Git for Windows</a> </summary> 
   
 ## Bienvenido al mundo del collaborative coding 
 
@@ -58,62 +56,45 @@ Bash es Unix Shell. Siempre que escuches Shell piensa en: Interprete de comandos
 
 ![image](https://user-images.githubusercontent.com/71740335/149614223-d18d4ac9-9841-463e-9f53-530141d1093a.png)
  
-Voy a utilizar algunos comandos básicos en bash, estos te serán útiles ya que la mayoría de los servidores corren en alguna versión de unix/linux lo que los convierte en un stardard de facto. Para la gente usando zsh, los comandos de bash funcional igual en mac. 
- 
-
- 
+Voy a utilizar algunos comandos básicos en bash, estos te serán útiles ya que la mayoría de los servidores corren en alguna versión de unix/linux lo que los convierte en un stardard de facto. Para la gente usando zsh, los comandos de bash funcionan -en teoria- igual en mac. 
  
 </details>
-
-
 <details>
-  <summary>2. Descarga <a href="https://www.python.org/downloads/">Python3 para Windows</a> </summary>
-  
-  ## Heading
-  1. A numbered
-  2. list
-     * With some
-     * Sub bullets
-</details>
+<summary>2. Descarga <a href="https://www.python.org/downloads/" rel="noopener noreferrer" target="_blank">Python3 para Windows</a> </summary><br>
+ 
+Ve a https://www.python.org/ y descarga e instala Python.<br><br>
 
-<a href="https://gitforwindows.org/">Git for Windows</a>
-
-
-
-&nbsp; 
+![image](https://user-images.githubusercontent.com/71740335/152736743-11edf72b-9fc2-4674-adb4-f4bbd4eca94a.png)
+</details><br>
 
 ## Virtual Environment <a name="chapter-2"></a> 
 
-  
+### IDLE <a name="chapter-3"></a> 
 
-  
+Cuando empezamos a utilizar Python, es muy fácil pasar por alto la joya que es idle. Ademas de IDLE, tenemos [Pycharm](https://www.jetbrains.com/pycharm/) de Jetbrains. Es una bestia de IDE y una delicia de usar. Ironicamente, [VSCode](https://code.visualstudio.com/) se ha convertido practicamente en el standard de la industria
 
-  
+Para lanzar IDLE, presiona win key + r o en el menú, busca la opcion de run. Escribe wt y presiona enter.<br>
 
-  
+![image](https://user-images.githubusercontent.com/71740335/152742960-61bed06f-767a-4f5e-85bc-02e966f5304c.png)
 
-  
+Esto es lo que verias. Por default windows abre un command prompt clásico, lo que tienes que hacer es dejar git bash como default. Esto lo haces seleccionando la flecha para abrir un menú.
 
-&nbsp; 
+![image](https://user-images.githubusercontent.com/71740335/152751645-0b6ca6c4-9916-4d26-98ac-cdec29138da9.png)
 
-### Idle <a name="chapter-3"></a> 
 
-  
+![image](https://user-images.githubusercontent.com/71740335/152751558-adf02748-d7b2-491f-b7d1-270121cce79a.png)
 
-Cuando empezamos a utilizar Python, es muy fácil pasar por alto la joya que es idle. Ve al campeón de los pesos pesados [Pycharm](https://www.jetbrains.com/pycharm/) de Jetbrains. Es una bestia de IDE y una verdadera delicia de usar. 
+Una vez que abres el menú, selecciona Git Bash como determinado. Guarda el perfil y renicia.
 
-  
+![image](https://user-images.githubusercontent.com/71740335/152752001-17835be1-760a-4db7-8118-7de030116cac.png)
 
-Mira a [VSCode](https://code.visualstudio.com/) que, -irónicamente- se ha convertido casi en un standard en la industria y si no lo consideras así, por lo menos sabes que es un referente actual. 
+Así se ve Git bash for windows como perfil determinado.
 
-  
+![image](https://user-images.githubusercontent.com/71740335/152752158-00ece3d3-945e-48c2-8cbc-094d38ff4b98.png)
 
-La verdad es que idle ya no se vé tan atractivo, verdad? No te preocupes, yo estoy aquí para convencerte de las bondades de esta joya que muchos pasamos por alto al (intentar) aprender Python. 
+Para lanzar IDLE ejecuta el siguiente comando.
 
-  
-
-``` 
-
+```python
 python -m idlelib.idle 
 
 ``` 
